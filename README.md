@@ -1,6 +1,6 @@
 ### Salve, pra tu que tá lendo isso! 
 
-
+<--
 Here are some ideas to get you started:
 
 - 🌱 I’m currently learning Python and Html ...
