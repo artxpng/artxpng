@@ -1,4 +1,6 @@
-### Salve, pra tu que tá lendo isso! 
+<div align='center'>
+Salve, pra tu que tá lendo isso! 
+</div>
 
 <div align="center">
   <a href="https://github.com/artxpng">
